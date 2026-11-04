@@ -30,6 +30,8 @@
 - Create a `.gitignore` file : it makes sure that you only version control what is meant to be version controlled
 
 
+## Guiding Methodology 
+![alt text](image.png)
 
 ### References 
 [Pandas Documentation](https://pandas.pydata.org/)
